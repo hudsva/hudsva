@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Hudon
+- 👀 I’m a studente at USP and a beginner coder trying to learn a lot of things
+- 🌱 I’m currently learning python and data science
+- 😄 Pronouns: he/they
